@@ -1,5 +1,5 @@
 --- 
-title: Coding Adventures 
+title: "Coding Adventures"
 date: 2018-12-27
 --- 
 
